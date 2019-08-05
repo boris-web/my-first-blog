@@ -1,0 +1,18 @@
+[
+{
+    "model": "blog.Post",
+    "pk": 3,
+    "fields": {
+      "title": "Ann",
+      "text": "Lennon and Ann brother and sister"
+    }
+  },
+  {
+    "model": "blog.Post",
+    "pk": 4,
+    "fields": {
+      "title": "Marta",
+      "text": "She is sister of Paul"
+    }
+  }
+  ]
